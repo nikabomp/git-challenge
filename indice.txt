@@ -1,0 +1,9 @@
+#!/bin/bash/
+
+#Información
+
+Capítulo 1: Introducción al Git
+Capítulo 2: Flujo de trabajo básico
+Capítulo 3: Gestión de Ramas
+Capítulo 4: Repositorios remotos
+
