@@ -1,1 +1,5 @@
 Chacón, S. y Straub, B. Pro Git. Apres.
+
+Loeliger, J. and McCullough, M. Version control with Git. O´Really.
+
+
