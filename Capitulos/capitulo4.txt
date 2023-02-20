@@ -1,0 +1,4 @@
+    #!/bin/bash
+
+	En este capítulo veremos los cambios a la zona de intercambio temporal.
+
